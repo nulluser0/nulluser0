@@ -1,7 +1,7 @@
 ```
 **********************************************************************
-** Visual Studio 202* Developer Command Prompt v*.*.*
-** Copyright (c) 202* Microsoft Corporation
+** Visual Studio 2022 Developer Command Prompt v*.*.*
+** Copyright (c) 2022 Microsoft Corporation
 **********************************************************************
 
 C:\Program Files\Microsoft Visual Studio\2022\Community>cd C:\nulluser0
